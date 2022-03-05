@@ -42,7 +42,7 @@ testem.log
 /typings
 .eslintcache
 .cavycache
-agogpixel-phaser3-ts-utils-*.tgz
+*-pgmmv-*.tgz
 
 # System Files
 .DS_Store
