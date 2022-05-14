@@ -1,6 +1,11 @@
-export * from './config';
-export * from './create-logger';
-export * from './log-level';
-export * from './log-level-name';
-export * from './logger';
-export * from './protected-api';
+/**
+ * Exports PGMMV logging support APIs and implementations.
+ *
+ * @module
+ */
+export * from './create-logger.function';
+export * from './log-level-name.type';
+export * from './log-level.enum';
+export * from './logger-config.interface';
+export * from './logger-protected-api.interface';
+export * from './logger.interface';

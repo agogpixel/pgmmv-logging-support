@@ -9,3 +9,7 @@
 <hr>
 
 Logging support for Pixel Game Maker MV scripting.
+
+## License
+
+Licensed under the [MIT License](./LICENSE).
